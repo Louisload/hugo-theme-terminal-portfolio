@@ -1,12 +1,17 @@
 # Terminal Portfolio
 
+Hello! ✨ This was a fork from the amazing [Hugo theme named Terminal by panr](https://github.com/panr/hugo-theme-terminal).  
+It added the possibility of showing a grid portfolio. However, I have since expanded it alot for my personal webpage.  
+The new repository is here: https://github.com/Louisload/hugo-theme-terminal-extended/  
+
+If you want to have this feature but updated to the most recent version of Terminal, check out version 1.0.0 of it.
+
+Please give it a visit and check if the other new features are of any interest to you :) I wont update this one anymore.
+
 ![Terminal Portfolio](https://github.com/Louisload/hugo-theme-terminal-portfolio/blob/master/images/portfolio1.png?raw=true)
 
 ### Barebones demo - https://www.luisrodriguesalves.dev/hugo-theme-terminal-portfolio/
 ### Real life demo - https://hidden.land/portfolio
-
-This is a fork of the amazing [Hugo theme named Terminal by panr](https://github.com/panr/hugo-theme-terminal).
-It adds the possibility of showing a grid portfolio.
 
 ## How to Use
 A portfolio works as any normal section would. Consider the example below, of a section called "portfolio" with three items:
