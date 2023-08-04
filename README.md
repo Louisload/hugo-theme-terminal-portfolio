@@ -1,5 +1,6 @@
 # Terminal Portfolio
 
+## Repository Update ⚠️
 Hello! ✨ This was a fork from the amazing [Hugo theme named Terminal by panr](https://github.com/panr/hugo-theme-terminal).  
 It added the possibility of showing a grid portfolio. However, I have since expanded it alot for my personal webpage.  
 The new repository is here: https://github.com/Louisload/hugo-theme-terminal-extended/  
